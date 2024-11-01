@@ -25,3 +25,5 @@ const GetAllUser = () => {
         </>
     );
 };
+
+export default GetAllUser;
